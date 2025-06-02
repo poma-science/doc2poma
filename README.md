@@ -64,7 +64,7 @@ print(archive)
 Once you have `*.poma`, feed it into **poma-chunker**:
 
 ```bash
-pip install https://github.com/poma-science/.github/releases/download/latest/poma_chunker-latest.whl
+pip install poma-chunker
 ```
 
 See the full POMA workflow in the org-level README:
