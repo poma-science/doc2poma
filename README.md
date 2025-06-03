@@ -70,9 +70,6 @@ pip install poma-chunker
 See the full POMA workflow in the org-level README:
 🔗 [Module Matrix](https://github.com/poma-science/.github#module-matrix)
 
-Or check out a complete example workflow:
-🔗 [Example Workflow](https://github.com/poma-science/.github/blob/main/example/flow.py)
-
 ---
 
 ## 🛠 Tests
