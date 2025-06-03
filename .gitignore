@@ -1,25 +1,30 @@
-*.bak
-*.diff
-*.egg-info/
-*.log
-*.orig
-*.patch
-*.py[cod]
-*.rej
-*.swo
-*.swp
-*.tmp
-*~
-.AppleDouble
-.DS_Store
-.LSOverride
-.env
-__pycache__/
-build/
-dist/
-.env.*
-*.key
-*.pem
-*.crt
-*.pyc
-*.pyo
+# Ignore the .gits workflow: ignore everything except this file
+*
+!.gitignore
+
+# When ready to publish, replace the above with specific ignores like:
+# *.bak
+# *.diff
+# *.egg-info/
+# *.log
+# *.orig
+# *.patch
+# *.py[cod]
+# *.rej
+# *.swo
+# *.swp
+# *.tmp
+# *~
+# .AppleDouble
+# .DS_Store
+# .LSOverride
+# .env
+# __pycache__/
+# build/
+# dist/
+# .env.*
+# *.key
+# *.pem
+# *.crt
+# *.pyc
+# *.pyo
